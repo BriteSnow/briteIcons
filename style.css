@@ -1,0 +1,243 @@
+@font-face {
+    font-family: 'briteicons';
+    src:    url('fonts/briteicons.eot?99e2fk');
+    src:    url('fonts/briteicons.eot?99e2fk#iefix') format('embedded-opentype'),
+        url('fonts/briteicons.ttf?99e2fk') format('truetype'),
+        url('fonts/briteicons.woff?99e2fk') format('woff'),
+        url('fonts/briteicons.svg?99e2fk#briteicons') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.bi {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'briteicons' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.file:before {
+    content: "\e901";
+}
+.file-add:before {
+    content: "\e900";
+}
+.chat-right:before {
+    content: "\e902";
+}
+.chat:before {
+    content: "\e904";
+}
+.chat-full:before {
+    content: "\e903";
+}
+.chat-ot:before {
+    content: "\e905";
+}
+.menu:before {
+    content: "\e906";
+}
+.dots-vert:before {
+    content: "\e907";
+}
+.dots-hor:before {
+    content: "\e908";
+}
+.attach:before {
+    content: "\e909";
+}
+.link:before {
+    content: "\e90a";
+}
+.circle-back:before {
+    content: "\e90b";
+}
+.circle-forward:before {
+    content: "\e90c";
+}
+.circle-dot:before {
+    content: "\e90d";
+}
+.circle-dot-back:before {
+    content: "\e90e";
+}
+.clock:before {
+    content: "\e90f";
+}
+.clock-back:before {
+    content: "\e910";
+}
+.alarm:before {
+    content: "\e911";
+}
+.alarm-check:before {
+    content: "\e912";
+}
+.alarm-add:before {
+    content: "\e913";
+}
+.alarm-off:before {
+    content: "\e914";
+}
+.cross:before {
+    content: "\e915";
+}
+.check:before {
+    content: "\e916";
+}
+.warning-sign:before {
+    content: "\e917";
+}
+.warning:before {
+    content: "\e918";
+}
+.info:before {
+    content: "\e919";
+}
+.info-ot:before {
+    content: "\e91a";
+}
+.circle-remove:before {
+    content: "\e91b";
+}
+.circle-remove-ot:before {
+    content: "\e91d";
+}
+.circle-check:before {
+    content: "\e91c";
+}
+.mail-ot:before {
+    content: "\e91e";
+}
+.mail:before {
+    content: "\e91f";
+}
+.contact-calendar:before {
+    content: "\e920";
+}
+.date-range:before {
+    content: "\e921";
+}
+.contact-mail:before {
+    content: "\e922";
+}
+.people:before {
+    content: "\e923";
+}
+.people-ot:before {
+    content: "\e924";
+}
+.person:before {
+    content: "\e925";
+}
+.person-ot:before {
+    content: "\e926";
+}
+.person-add:before {
+    content: "\e927";
+}
+.person-pin:before {
+    content: "\e928";
+}
+.person-pin-circle:before {
+    content: "\e929";
+}
+.edit-line:before {
+    content: "\e92a";
+}
+.edit:before {
+    content: "\e92b";
+}
+.file-upload:before {
+    content: "\e92c";
+}
+.file-download:before {
+    content: "\e92d";
+}
+.cloud-upload:before {
+    content: "\e92e";
+}
+.cloud-download:before {
+    content: "\e92f";
+}
+.cloud-done:before {
+    content: "\e930";
+}
+.settings:before {
+    content: "\e931";
+}
+.arrow-right:before {
+    content: "\e932";
+}
+.arrow-left:before {
+    content: "\e933";
+}
+.arrow-up:before {
+    content: "\e934";
+}
+.arrow-down:before {
+    content: "\e935";
+}
+.drop-up:before {
+    content: "\e936";
+}
+.drop-down:before {
+    content: "\e937";
+}
+.radio:before {
+    content: "\e938";
+}
+.radio-on:before {
+    content: "\e939";
+}
+.checkbox:before {
+    content: "\e93a";
+}
+.checkbox-on:before {
+    content: "\e93b";
+}
+.label:before {
+    content: "\e93c";
+}
+.folder:before {
+    content: "\e93d";
+}
+.folder-ot:before {
+    content: "\e93e";
+}
+.folder-add:before {
+    content: "\e93f";
+}
+.folder-star:before {
+    content: "\e940";
+}
+.folder-person:before {
+    content: "\e941";
+}
+.search:before {
+    content: "\e942";
+}
+.circle-star:before {
+    content: "\e943";
+}
+.star:before {
+    content: "\e944";
+}
+.star-half:before {
+    content: "\e945";
+}
+.star-ot:before {
+    content: "\e946";
+}
+.case:before {
+    content: "\e947";
+}
+
