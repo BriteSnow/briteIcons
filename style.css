@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'briteicons';
-    src:    url('fonts/briteicons.eot?70nrtf');
-    src:    url('fonts/briteicons.eot?70nrtf#iefix') format('embedded-opentype'),
-        url('fonts/briteicons.ttf?70nrtf') format('truetype'),
-        url('fonts/briteicons.woff?70nrtf') format('woff'),
-        url('fonts/briteicons.svg?70nrtf#briteicons') format('svg');
+    src:    url('fonts/briteicons.eot?zbno68');
+    src:    url('fonts/briteicons.eot?zbno68#iefix') format('embedded-opentype'),
+        url('fonts/briteicons.ttf?zbno68') format('truetype'),
+        url('fonts/briteicons.woff?zbno68') format('woff'),
+        url('fonts/briteicons.svg?zbno68#briteicons') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -24,6 +24,9 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
+.scale:before {
+    content: "\e979";
+}
 .window-sections:before {
     content: "\e96d";
 }
