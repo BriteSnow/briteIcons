@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'briteicons';
-    src:    url('fonts/briteicons.eot?ktymz8');
-    src:    url('fonts/briteicons.eot?ktymz8#iefix') format('embedded-opentype'),
-        url('fonts/briteicons.ttf?ktymz8') format('truetype'),
-        url('fonts/briteicons.woff?ktymz8') format('woff'),
-        url('fonts/briteicons.svg?ktymz8#briteicons') format('svg');
+    src:    url('fonts/briteicons.eot?70nrtf');
+    src:    url('fonts/briteicons.eot?70nrtf#iefix') format('embedded-opentype'),
+        url('fonts/briteicons.ttf?70nrtf') format('truetype'),
+        url('fonts/briteicons.woff?70nrtf') format('woff'),
+        url('fonts/briteicons.svg?70nrtf#briteicons') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -24,6 +24,42 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
+.window-sections:before {
+    content: "\e96d";
+}
+.window:before {
+    content: "\e96e";
+}
+.view:before {
+    content: "\e96f";
+}
+.picture-in:before {
+    content: "\e970";
+}
+.picture-in-alt:before {
+    content: "\e971";
+}
+.devices-desktop-phone:before {
+    content: "\e972";
+}
+.devices-laptop-phone:before {
+    content: "\e973";
+}
+.devices-screen-watch-phone:before {
+    content: "\e974";
+}
+.desktop:before {
+    content: "\e975";
+}
+.apps:before {
+    content: "\e976";
+}
+.shield:before {
+    content: "\e977";
+}
+.key:before {
+    content: "\e978";
+}
 .home:before {
     content: "\e966";
 }
@@ -216,7 +252,7 @@
 .calendar-today:before {
     content: "\e968";
 }
-.calendar-:before {
+.calendar-today-alt:before {
     content: "\e969";
 }
 .calendar-note:before {
